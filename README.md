@@ -1,2 +1,3 @@
 # test-repository
-Hallo dit is een test
+Hallo dit is een test.
+Nog iets toegevoegd.
